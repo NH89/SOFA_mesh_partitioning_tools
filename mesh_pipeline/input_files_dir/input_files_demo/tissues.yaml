@@ -1,0 +1,2 @@
+# yaml Flow of nested nx2 sequence of [tissue_name, Young's modulus].
+[[skin, 10], [bone, 1000], [tendon, 100], [ligament, 100], [muscle, 10], [loose_ct, 1]]

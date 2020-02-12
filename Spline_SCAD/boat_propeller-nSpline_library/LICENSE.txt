@@ -1,0 +1,3 @@
+boat propeller customizable - OpenSCAD nSpline() library with show cases (https://www.thingiverse.com/thing:1208001) by Parkinbot is licensed under the Creative Commons - Attribution - Non-Commercial license.
+http://creativecommons.org/licenses/by-nc/3.0/
+
