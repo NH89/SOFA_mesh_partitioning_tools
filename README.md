@@ -54,7 +54,7 @@ This version of the Mesh_pipeline is tested on Ubuntu 18.04, with CGAL 4.14.0 (i
 ### On Linux
 Use you package manager. e.g. on Debian based distributions such as Ubuntu:
 
-'''sudo apt-get install libyaml-cpp-dev libgmp-dev libmpfr-dev libpthread-stubs0-dev libboost1.65-dev libboost_regex1.65-dev libboost_program_options1.65-dev libboost_filesystem1.65-dev libboost_system1.65-dev  libboost_thread1.65-dev libboost_chrono1.65-dev libboost_date_time1.65-dev libboost_atomic1.65-dev libeigen3-dev lib liblapack-dev'''
+```sudo apt-get install libyaml-cpp-dev libgmp-dev libmpfr-dev libpthread-stubs0-dev libboost1.65-dev libboost_regex1.65-dev libboost_program_options1.65-dev libboost_filesystem1.65-dev libboost_system1.65-dev  libboost_thread1.65-dev libboost_chrono1.65-dev libboost_date_time1.65-dev libboost_atomic1.65-dev libeigen3-dev lib liblapack-dev```
 
 ### On Windows 10
 The CGAL installer can download pre-compiled versions of GMP and MPFR.
