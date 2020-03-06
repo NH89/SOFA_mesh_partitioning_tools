@@ -49,6 +49,31 @@ boost_regex, boost_program_options, boost_filesystem, boost_system,  boost_threa
 This version of the Mesh_pipeline is tested on Ubuntu 18.04, with CGAL 4.14.0 (installed in /usr/local), and boost-1.65-dev from the Ubuntu repository. 
 (CGAL was built with the Eigen3 and Lapack options. Cmake may prompt you to install libraries and headers as needed.)
 
+## Installing the dependencies
+
+### On Linux
+Use you package manager. e.g. on Debian based distributions such as Ubuntu:
+
+'''sudo apt-get install libyaml-cpp-dev libgmp-dev libmpfr-dev libpthread-stubs0-dev libboost1.65-dev libboost_regex1.65-dev libboost_program_options1.65-dev libboost_filesystem1.65-dev libboost_system1.65-dev  libboost_thread1.65-dev libboost_chrono1.65-dev libboost_date_time1.65-dev libboost_atomic1.65-dev libeigen3-dev lib liblapack-dev'''
+
+### On Windows 10
+The CGAL installer can download pre-compiled versions of GMP and MPFR.
+The CGAL geometry library is here [CGAL Windows](https://www.cgal.org/download/windows.html)
+
+You will need the [Boost binaries](https://sourceforge.net/projects/boost/files/boost-binaries/1.65.0/)
+Boost [help/howto for Windows](https://www.boost.org/doc/libs/1_65_0/more/getting_started/windows.html)
+
+yaml-cpp uses [C-Make](https://cmake.org), which you are probably already using if you have built SOFA. (If you haven't you will need to install it first. C-Make generates build scripts for your hardware & OS).
+The yaml-cpp repository is [here](https://github.com/jbeder/yaml-cpp)
+
+### On Mac
+See [CGAL installation on Mac](https://www.cgal.org/download/macosx.html), and
+
+[Boost installation on Mac](https://www.boost.org/doc/libs/1_65_0/doc/html/quickbook/install.html).
+
+The yaml-cpp repository is [here](https://github.com/jbeder/yaml-cpp)
+
+
 ## Compile and link commands:
 
 In  #~/projects/Mesh_pipeline$ 
