@@ -47,8 +47,7 @@ yaml-cpp, gmp, mpfr, pthread
 boost_regex, boost_program_options, boost_filesystem, boost_system,  boost_thread, boost_chrono, boost_date_time, boost_atomic, 
 
 This version of the Mesh_pipeline is tested on Ubuntu 18.04, with CGAL 4.14.0 (installed in /usr/local), and boost-1.65-dev from the Ubuntu repository. 
-(CGAL was built with the Ei# Building a SOFA scene with a partitioned mesh:gen3 and Lapack options. Cmake may prompt you to install libraries and headers as needed.)
-
+(CGAL was built with the Eigen3 and Lapack options. Cmake may prompt you to install libraries and headers as needed.)
 
 ## Compile and link commands:
 
