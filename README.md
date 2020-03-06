@@ -16,7 +16,8 @@ The all other parts of this repository, including the "mesh_pipeline" and "test_
 
 ## Acknowledgement
 
-This work was funded by the Commonwealth Scientific and Industrial Research Organisation (CSIRO) of Australia.
+This work was funded by the Commonwealth Scientific and Industrial Research Organisation (CSIRO) of Australia, as part of the Autonomous Design project within the Active Integrated Matter FSP
+https://research.csiro.au/aim/home/aims-research-test-beds/autonomous-design/.
 
 # Tools:
 ## 1  Mesh_pipeline
