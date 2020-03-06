@@ -12,8 +12,11 @@ This may be useful for many applications, not limited to: anatomical simulations
 
 The "Spline_SCAD/boat_propeller-nSpline_library" is subject to the CC-By-ND license from its original author - see "Spline_SCAD/boat_propeller-nSpline_library/LICENSE.txt"
 
-The all other parts of this repository, including the "mesh_pipeline" and "test_mesh_generator" folders, and the Spline_SCAD/spline_organ.scad script, are subject to the GNU Affero General Public License  http://www.gnu.org/licenses/agpl-3.0.html .
+The all other parts of this repository, including the "mesh_pipeline" and "test_mesh_generator" folders, and the Spline_SCAD/spline_organ.scad script, are copyright to CSIRO (my employer) and subject to the GNU Affero General Public License  http://www.gnu.org/licenses/agpl-3.0.html .
 
+## Acknowledgement
+
+This work was funded by the Commonwealth Scientific and Industrial Research Organisation (CSIRO) of Australia.
 
 # Tools:
 ## 1  Mesh_pipeline
