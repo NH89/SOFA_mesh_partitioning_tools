@@ -248,7 +248,7 @@ The "boat_propellor-Spline_library" contains further examples of relevance to SO
 
 # 4  Variable FEM stiffness via Sofa Python Controller
 
-The folder **`Variable_stiffness_FEM_demo/`** contains a demondstration of how to change the stiffness of a finite element mesh in a running SOFA simulation. These are derived from files in the **SOFA Robotis plugin**, but depend only on the **Sofa Python plugin**. 
+The folder **`Variable_stiffness_FEM_demo/`** contains a demondstration of how to change the stiffness of a finite element mesh in a running SOFA simulation. These are derived from files in the [**SoftRobot plugin**](https://www.sofa-framework.org/applications/marketplace/softrobot/), but depend only on the [**Sofa Python plugin**](https://www.sofa-framework.org/community/doc/using-sofa/optional-features/python-scripting/). 
 
 Run the file **`Variable_stiffness_FEM_demo/Finger-edited_SparseLUSolver.pyscn`** in SOFA to test the demonstration.
 
