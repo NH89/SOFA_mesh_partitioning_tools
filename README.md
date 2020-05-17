@@ -109,6 +109,7 @@ Run "Meshpipeline" in ~/projects/Mesh_pipeline  with the command:
     ./pipeline2 -i ./input_files/ -o ./output_files
 
 e.g.
+
 	mkdir output_files_dir/output_files_demo
 	Mesh_pipeline_exact_src/pipeline2 -i input_files_dir/input_files_demo/  -o output_files_dir/output_files_demo
 
