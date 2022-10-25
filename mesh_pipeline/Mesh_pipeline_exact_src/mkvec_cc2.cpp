@@ -49,7 +49,7 @@ double target_edge_length = 6.0;//4.0;//0.04;               // arbitrary remeshi
 unsigned int nb_iter = 2;//3;
 
 
-size_t make_vector_of_connected_components(
+void make_vector_of_connected_components(
     Mesh pmesh, 
     pair<int, int> pair_,
     vector<Mesh> &mesh_vec, 
